@@ -6,6 +6,7 @@ import java.util.List;
 
 /**
  * Created by Bogdan Stoean on 29.05.2015.
+ * Main class used for testing.
  */
 public class PersonMain {
 

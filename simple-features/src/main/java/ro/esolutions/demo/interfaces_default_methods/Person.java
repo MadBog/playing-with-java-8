@@ -2,6 +2,8 @@ package ro.esolutions.demo.interfaces_default_methods;
 
 /**
  * Created by Bogdan Stoean on 29.05.2015.
+ *
+ * Person entity.
  */
 public class Person {
 

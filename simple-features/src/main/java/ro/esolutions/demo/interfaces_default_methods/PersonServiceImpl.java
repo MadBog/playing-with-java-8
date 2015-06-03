@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * Created by Bogdan Stoean on 29.05.2015.
+ *
+ * PersonService implementation.
  */
 public class PersonServiceImpl implements PersonService {
 
